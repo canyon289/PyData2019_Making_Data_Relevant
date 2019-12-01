@@ -1,2 +1,3 @@
-# PyData2019_Making_Data_Relevant
-Step 1: Data Science. Step 2: ???? Step 3. Profit
+# PyData2019 Talk: Making Data relevant to Businesses
+
+All code and links to slides that I use in my PyData 2019 talk
